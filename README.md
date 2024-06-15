@@ -1,6 +1,6 @@
 # 👾 It is I, Jorge 👾
 ---
-I am a Mechanical Engineer working to better my programming and data analysis skills! I am presently working on some flight simulation equipment using Arduino; let me know if you have done it before! In the meantime an inspirational wuote when a project is not going well:
+I am a Mechanical Engineer working to better my programming and data analysis skills! I am presently working on some flight simulation equipment using Arduino; let me know if you have done it before! In the meantime an inspirational quote when a project is not going well:
 
 ![Adam Savage](https://media1.tenor.com/m/gDPgEekqX_UAAAAC/reality-substitute.gif)
 
